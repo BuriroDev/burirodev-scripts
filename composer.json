@@ -1,0 +1,14 @@
+{
+    "name": "burirodev/scripts",
+    "description": "Reusable PHP helper utilities for debugging and date formatting.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BuriroDev\\Helpers\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
